@@ -1,5 +1,7 @@
 # Data-Driven Decisions: Monte Carlo Analysis for Technical Communications
 
+## Ryan C. Cooper
+
 Greetings!
 
 Thanks for joining this Data-Driven Decisions course. This is a
